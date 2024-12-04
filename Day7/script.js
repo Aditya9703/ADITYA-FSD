@@ -32,15 +32,4 @@ const students=[
 // setTimeout(sayhello,3000);
 // console.log("End");
 // setTimeout(sayhello,6000);
-console.log("start");
-setTimeout(()=>{
-    console.log("first task completed");
-    setTimeout(()=>
-    {
-        console.log("second task completed");
-        setTimeout(()=>
-        {
-            console.log("third")
-        })
-    })
-}
+console.log("start")
