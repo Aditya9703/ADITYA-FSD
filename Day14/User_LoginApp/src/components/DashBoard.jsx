@@ -1,10 +1,6 @@
+import React from "react";
 
-
-functio DashBoard() {
-    return (
-        <>
-        </>
-    )
-}
-
-export default DashBoard;
+const Dashboard = () => {
+  return <div>Dashboard</div>;
+};
+export default Dashboard;
